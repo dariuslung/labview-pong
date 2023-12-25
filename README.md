@@ -1,5 +1,5 @@
 ﻿# 2023 NYCU LabVIEW Project III
-## Project Name
+## Project
 LabVIEW Pong
 
 ## Members
