@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="src" Type="Folder">
 			<Item Name="calc_vector_length.vi" Type="VI" URL="../src/calc_vector_length.vi"/>
+			<Item Name="check_boundary.vi" Type="VI" URL="../src/check_boundary.vi"/>
 			<Item Name="main.vi" Type="VI" URL="../src/main.vi"/>
 			<Item Name="normalize_vector.vi" Type="VI" URL="../src/normalize_vector.vi"/>
 		</Item>
