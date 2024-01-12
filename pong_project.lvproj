@@ -11,6 +11,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="AI" Type="Folder">
+			<Item Name="main_ai.vi" Type="VI" URL="../src/main_ai.vi"/>
+			<Item Name="main_train.vi" Type="VI" URL="../src/main_train.vi"/>
+		</Item>
 		<Item Name="src" Type="Folder">
 			<Item Name="calc_vector_length.vi" Type="VI" URL="../src/calc_vector_length.vi"/>
 			<Item Name="check_boundary.vi" Type="VI" URL="../src/check_boundary.vi"/>
